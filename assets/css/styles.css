@@ -643,7 +643,7 @@ ul, ol {
 
 .footer-grid {
   display: grid;
-  grid-template-columns: 1.4fr 1fr 1fr 1.2fr;
+  grid-template-columns: 2fr 1fr 1fr; /* brand/address, Pack 505 links, Official links */
   gap: 3rem;
   margin-bottom: 3.5rem;
 }
