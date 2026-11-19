@@ -204,7 +204,8 @@ ul, ol {
 .section-subtitle {
   font-size: 1.125rem;
   color: var(--text-muted);
-  max-width: 680px;
+  max-width: 760px;
+  text-wrap: pretty; /* avoids a single word alone on the last line */
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 2.5rem;
