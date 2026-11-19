@@ -49,7 +49,7 @@ Before you add one, consider whether the content fits on an existing page or whe
 ## Content Guidelines
 
 - Keep it short. Link to official sources (scouting.org, shacbsa.org) for program details, rules, and fees instead of copying them here, so they don't go out of date.
-- Use the role email `packleaders@houstonpack505.org` rather than leaders' personal names or emails.
+- Use the role email `pack505svdp@gmail.com` rather than leaders' personal names or emails.
 - Time-sensitive announcements belong in the pack Facebook group, not on the website.
 
 ## Preview Locally
